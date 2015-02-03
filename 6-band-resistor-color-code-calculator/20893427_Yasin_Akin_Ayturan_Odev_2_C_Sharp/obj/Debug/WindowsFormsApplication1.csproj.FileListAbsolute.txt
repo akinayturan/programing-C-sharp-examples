@@ -1,0 +1,8 @@
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AKINN\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20893427_Yasin_Akin_Ayturan_Odev_2_C_Sharp", "20893427_Yasin_Akin_Ayturan_Odev_2_C_Sharp\20893427_Yasin_Akin_Ayturan_Odev_2_C_Sharp.csproj", "{248B1979-1CF8-4C20-8652-4ADF0E4C20A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{248B1979-1CF8-4C20-8652-4ADF0E4C20A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248B1979-1CF8-4C20-8652-4ADF0E4C20A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248B1979-1CF8-4C20-8652-4ADF0E4C20A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248B1979-1CF8-4C20-8652-4ADF0E4C20A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
